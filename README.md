@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Jai Saravanan
 
-<!--
-**jaisaravanan-dev/jaisaravanan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a JavaScript developer based in Chennai, India, passionate about building high-performance web and mobile applications. I enjoy exploring modern JavaScript libraries & frameworks and contributing to the developer community.
 
-Here are some ideas to get you started:
+- 🔭 **Current Role**: Senior Consultant at [Capgemini](https://www.capgemini.com/)
+- 🌐 **Website**: [jaisaravanan.com](https://jaisaravanan.com/)
+- 🦋 **Bluesky**: [@jaisaravanan.com](https://bsky.app/profile/jaisaravanan.com)
+- 🐦 **Twitter**: [@JaisaravananDev](https://x.com/JaisaravananDev)
+- 💼 **LinkedIn**: [Jai Saravanan](https://www.linkedin.com/in/jaisaravanan-dev/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+- **Languages**: TypeScript, JavaScript
+- **Frameworks/Libraries**: React, React Native, Next.js, GraphQL, tRPC
+- **UI Libraries**: Tailwind CSS, shadcn/ui
+- **Build Tools**: Webpack, Vite
+- **Serverless**: AWS Lambda, API Gateway, Cloudfront.
+
+## 📈 GitHub Stats
+
+![Jai Saravanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaisaravanan-dev&show_icons=true&theme=radical)
+
+## 📫 Get in Touch
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out through [Twitter](https://x.com/JaisaravananDev), [Bluesky](https://bsky.app/profile/jaisaravanan.com) or [LinkedIn](https://www.linkedin.com/in/jaisaravanan-dev/).
+
