@@ -4,7 +4,7 @@ I'm a JavaScript developer based in Chennai, India, passionate about building hi
 
 - 🔭 **Current Role**: Senior Consultant at [Capgemini](https://www.capgemini.com/)
 - 🌐 **Website**: [jaisaravanan.dev](https://jaisaravanan.dev/)
-- 🦋 **Bluesky**: [@jaisaravanan.com](https://bsky.app/profile/jaisaravanan.com)
+- 🦋 **Bluesky**: [@jaisaravanan.dev](https://bsky.app/profile/jaisaravanan.dev)
 - 🐦 **Twitter**: [@JaisaravananDev](https://x.com/JaisaravananDev)
 - 💼 **LinkedIn**: [Jai Saravanan](https://www.linkedin.com/in/jaisaravanan-dev/)
 
