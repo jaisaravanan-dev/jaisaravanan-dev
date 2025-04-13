@@ -6,7 +6,7 @@ I'm a JavaScript developer based in Chennai, India, passionate about building hi
 - 🌐 **Website**: [jaisaravanan.dev](https://jaisaravanan.dev/)
 - 🦋 **Bluesky**: [@jaisaravanan.dev](https://bsky.app/profile/jaisaravanan.dev)
 - 🐦 **Twitter**: [@JaisaravananDev](https://x.com/JaisaravananDev)
-- 💼 **LinkedIn**: [Jai Saravanan](https://www.linkedin.com/in/jaisaravanan-dev/)
+- 💼 **LinkedIn**: [@jaisaravanan-dev](https://www.linkedin.com/in/jaisaravanan-dev/)
 
 ## 🛠️ Technologies & Tools
 
